@@ -1,1 +1,1 @@
-A basic HTML project
+A basic recipes site HTML project
