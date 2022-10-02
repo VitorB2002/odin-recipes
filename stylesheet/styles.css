@@ -18,3 +18,9 @@ h1 {
     background-color: blueviolet;
     font-weight: bolder;
 }
+
+p#about {
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
