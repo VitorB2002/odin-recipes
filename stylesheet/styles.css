@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+#recipes-button,
+#about-button {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+#recipes-button {
+    background-color: bisque;
+    font-weight: bold;
+}
+
+#about-button {
+    background-color: blueviolet;
+    font-weight: bolder;
+}
